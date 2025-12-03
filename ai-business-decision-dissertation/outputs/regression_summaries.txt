@@ -5,7 +5,7 @@ Dep. Variable:     Decision_Time_Days   R-squared:                       0.201
 Model:                            OLS   Adj. R-squared:                  0.200
 Method:                 Least Squares   F-statistic:                     279.1
 Date:                Wed, 03 Dec 2025   Prob (F-statistic):               0.00
-Time:                        14:19:42   Log-Likelihood:                -22213.
+Time:                        14:28:10   Log-Likelihood:                -22213.
 No. Observations:               10000   AIC:                         4.445e+04
 Df Residuals:                    9990   BIC:                         4.452e+04
 Df Model:                           9                                         
@@ -42,7 +42,7 @@ Dep. Variable:     Decision_Accuracy_Pct   R-squared:                       0.64
 Model:                               OLS   Adj. R-squared:                  0.641
 Method:                    Least Squares   F-statistic:                     1988.
 Date:                   Wed, 03 Dec 2025   Prob (F-statistic):               0.00
-Time:                           14:19:42   Log-Likelihood:                -25223.
+Time:                           14:28:10   Log-Likelihood:                -25223.
 No. Observations:                  10000   AIC:                         5.047e+04
 Df Residuals:                       9990   BIC:                         5.054e+04
 Df Model:                              9                                         
@@ -79,7 +79,7 @@ Dep. Variable:     Data_Quality_Score   R-squared:                       0.063
 Model:                            OLS   Adj. R-squared:                  0.062
 Method:                 Least Squares   F-statistic:                     83.76
 Date:                Wed, 03 Dec 2025   Prob (F-statistic):          7.52e-135
-Time:                        14:19:42   Log-Likelihood:                -20232.
+Time:                        14:28:10   Log-Likelihood:                -20232.
 No. Observations:               10000   AIC:                         4.048e+04
 Df Residuals:                    9991   BIC:                         4.055e+04
 Df Model:                           8                                         
